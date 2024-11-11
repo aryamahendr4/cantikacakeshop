@@ -1,17 +1,25 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Header from './component/navbar.js'; 
+import Beranda from './component/beranda.js';
+import Tentang from './component/tentang.js';
+import Produk from './component/produk.js';
+import Kontak from './component/kontak.js';
+import Footer from './component/footer.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Header />
+    <Beranda />
+    <Tentang />
+    <Produk />
+    <Kontak />
+    <Footer />
   </React.StrictMode>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+// Untuk mengukur performa, tambahkan reportWebVitals sesuai kebutuhan.
 reportWebVitals();
