@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cantikacakeshop/static/css/main.89bcf4bd.css",
+    "main.js": "/cantikacakeshop/static/js/main.2b9b9fd7.js",
+    "static/js/453.2ad9061c.chunk.js": "/cantikacakeshop/static/js/453.2ad9061c.chunk.js",
+    "static/media/popup_image.png": "/cantikacakeshop/static/media/popup_image.8c3e7f56f28827e3dbe8.png",
+    "static/media/background_beranda.jpg": "/cantikacakeshop/static/media/background_beranda.c521b315142e4b0f04ad.jpg",
+    "static/media/img_tentang.png": "/cantikacakeshop/static/media/img_tentang.7cc2f7d33bc7626d04a7.png",
+    "static/media/produk_bolu_pandan.jpg": "/cantikacakeshop/static/media/produk_bolu_pandan.249f9e231708b93e4ce6.jpg",
+    "static/media/produk_chiffon_keju.jpg": "/cantikacakeshop/static/media/produk_chiffon_keju.744285d6eb51ebb79cff.jpg",
+    "static/media/produk_chiffon_coklat.jpg": "/cantikacakeshop/static/media/produk_chiffon_coklat.a83642bb6824b35ebe43.jpg",
+    "static/media/logo_cantika.png": "/cantikacakeshop/static/media/logo_cantika.aeea5462c7045a813e2f.png",
+    "static/media/wave_produk.svg": "/cantikacakeshop/static/media/wave_produk.a2becb10bbe201972ed8.svg",
+    "static/media/wave_tentang.svg": "/cantikacakeshop/static/media/wave_tentang.37c5defcf4cecad1808d.svg",
+    "index.html": "/cantikacakeshop/index.html",
+    "main.89bcf4bd.css.map": "/cantikacakeshop/static/css/main.89bcf4bd.css.map",
+    "main.2b9b9fd7.js.map": "/cantikacakeshop/static/js/main.2b9b9fd7.js.map",
+    "453.2ad9061c.chunk.js.map": "/cantikacakeshop/static/js/453.2ad9061c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89bcf4bd.css",
+    "static/js/main.2b9b9fd7.js"
+  ]
+}
